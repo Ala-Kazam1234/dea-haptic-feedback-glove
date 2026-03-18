@@ -2,9 +2,13 @@
 
 Compact dielectric elastomer actuators for haptic feedback in a wearable glove.
 
+[Click here for the full poster image](images/FYDPPoster.png)
+
 This repository documents the design and prototyping of compact dielectric elastomer actuators (DEAs) for use in a wearable haptic feedback glove. The system is intended for robotic teleoperation and imitation learning, providing localized tactile feedback through lightweight, compliant actuators.
 
 The work covers actuator design, multilayer fabrication, modelling, and prototype development.
+
+The diagram shows the DEA working principle. It's made out of alternating elastomer layers and CNT electrodes. When voltage is applied, the structure compresses through its thickness and expands laterally, producing actuation in the rolled device.
 
 ![DEA Diagram](images/DEA_Diagram.png)
 
