@@ -57,7 +57,8 @@ Potential applications include:
 ## Team
 
 University of Waterloo, Nanotechnology Engineering  
-Andy Yan, Daniel Chen, Gigi Sae-zheng, Aladara State-Ezust
+Andy Yan (a24yan@uwaterloo.ca), Daniel Chen (d338chen@uwaterloo.ca) Gigi Sae-zheng (gsaezhen@uwaterloo.ca), Aladara State-Ezust (astateezust@uwaterloo.ca)
+
 
 ## Notes
 
