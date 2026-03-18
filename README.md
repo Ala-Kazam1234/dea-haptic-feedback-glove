@@ -22,6 +22,12 @@ Most haptic systems provide broad force cues, but not the localized fingertip fe
 
 The actuator is built from alternating elastomer dielectric layers and compliant CNT electrodes. When high voltage is applied across the structure, electrostatic compression causes deformation that is redirected into useful mechanical output. The multilayer structure is then rolled into a compact cylindrical actuator for glove integration.
 
+## Device Simulation
+
+The device is simulated via COMSOL Multiphysics to analyze the behavior.
+
+![Actuator](images/Simulation%20Actuator.gif)
+
 ## Fabrication Workflow
 
 The device is fabricated by spin-coating elastomer layers, curing them, patterning the active region with a mask, transferring SWCNT films, and assembling the multilayer structure into a rolled actuator.
