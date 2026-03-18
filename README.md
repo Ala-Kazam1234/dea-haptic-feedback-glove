@@ -5,5 +5,5 @@ This repository documents the design and prototyping of compact dielectric elast
 
 The work highlights end-to-end system development, including actuator architecture, high-voltage drive electronics, analytical and numerical modeling, and experimental validation of performance.
 
-![test](https://github.com/[Ala-Kazam1234]/[dea-haptic-feedback-glove]/DEA_Diagram.png?raw=true)
+![test](https://github.com/Ala-Kazam1234/dea-haptic-feedback-glove/blob/main/DEA_Diagram.png)
 
